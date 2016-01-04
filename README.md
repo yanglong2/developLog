@@ -2,4 +2,4 @@
 
 ##Meteor记录
 
-[MeteorLog](https://github.com/yanglong2/developLog/MeteorLog/README.md)
+[MeteorLog](https://github.com/yanglong2/developLog/blob/master/MeteorLog/README.md)

@@ -4,7 +4,7 @@
   
   app出现状态如图所示：
 
-![iron](https://github.com/yanglong2/developLog/MeteorLog/img/Screenshot_2016-01-04-11-43-50_com.biku.dorasdrea.png)
+![iron](https://github.com/yanglong2/developLog/blob/master/MeteorLog/img/Screenshot_2016-01-04-11-43-50_com.biku.dorasdrea.png)
   
   解决方案：
        * 确认加入了iron:router包
